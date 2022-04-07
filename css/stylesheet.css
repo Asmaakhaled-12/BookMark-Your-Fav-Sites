@@ -1,0 +1,20 @@
+.tableBody{
+    background-color: #EEEEEE;
+}
+.container h1,p{
+    color: #aaaaaa ;
+}
+.container h2{
+    color: #000;
+}
+.container label{
+    color:#333333;
+}
+ .oneSite{
+    background-image: linear-gradient(#EEE,#FFF);
+}
+#sitesList h3{
+    display: inline-block;
+    width:40%;
+}
+
